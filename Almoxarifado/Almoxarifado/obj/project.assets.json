@@ -6624,11 +6624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manha.cetafest\\source\\repos\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
+      "projectUniqueName": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\Almoxarifado_Teste\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
       "projectName": "Almoxarifado",
-      "projectPath": "C:\\Users\\manha.cetafest\\source\\repos\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
+      "projectPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\Almoxarifado_Teste\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
       "packagesPath": "C:\\Users\\manha.cetafest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manha.cetafest\\source\\repos\\Almoxarifado\\Almoxarifado\\obj\\",
+      "outputPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\Almoxarifado_Teste\\Almoxarifado\\Almoxarifado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manha.cetafest\\AppData\\Roaming\\NuGet\\NuGet.Config",

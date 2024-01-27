@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nA4u0BxPds5In9SM3qcLEkLCq7x5w+tDNci5Scn/Cd92XJgYos1rQykemOQzIohRSKBUTccfLAtriVra2KCmQ==",
+  "dgSpecHash": "0K0xaSwRH9+jamjE3DaL58hkdCz60QpMt2mOx5jTnnGpwlDfgrAwydivcvbC9SY1RqW4nXuVaOt7kP446iBj0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manha.cetafest\\source\\repos\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
+  "projectFilePath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\Almoxarifado_Teste\\Almoxarifado\\Almoxarifado\\Almoxarifado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manha.cetafest\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\manha.cetafest\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
